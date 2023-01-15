@@ -23,6 +23,7 @@ Acceder a la página web de [Ubuntu](https://ubuntu.com/).
 ![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(2).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(2).png?raw=true)
 
 Dirigirse a la sección [Download](https://ubuntu.com/#download).
+
 Seleccionar [Ubuntu Desktop](https://ubuntu.com/download/desktop).
 
 ![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(3).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(3).png?raw=true)
