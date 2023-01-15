@@ -1,5 +1,3 @@
-# 02-Descargar-Ubuntu
-
 # Introducción
 
 Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye principalmente software libre y de código abierto.
