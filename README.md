@@ -16,21 +16,20 @@ Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye princi
 
 # Instrucciones
 
-![Acceder a la página web de [Ubuntu](https://ubuntu.com/).](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(1).png?raw=true)
+![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(1).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(1).png?raw=true)
 
 Acceder a la página web de [Ubuntu](https://ubuntu.com/).
 
-![Dirigirse a la sección [Download](https://ubuntu.com/#download).
-Seleccionar [Ubuntu Desktop](https://ubuntu.com/download/desktop).](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(2).png?raw=true)
+![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(2).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(2).png?raw=true)
 
 Dirigirse a la sección [Download](https://ubuntu.com/#download).
 Seleccionar [Ubuntu Desktop](https://ubuntu.com/download/desktop).
 
-![En la sección “Ubuntu 22.04.1 LTS” seleccionar la opción “[Download](https://ubuntu.com/download/desktop/thank-you?version=22.04.1&architecture=amd64)”.](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(3).png?raw=true)
+![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(3).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(3).png?raw=true)
 
 En la sección “Ubuntu 22.04.1 LTS” seleccionar la opción “[Download](https://ubuntu.com/download/desktop/thank-you?version=22.04.1&architecture=amd64)”.
 
-![Se habrá descargado la imagen ISO de Ubuntu 22.04.1 LTS.](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(4).png?raw=true)
+![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(4).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(4).png?raw=true)
 
 Se habrá descargado la imagen ISO de Ubuntu 22.04.1 LTS.
 
