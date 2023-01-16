@@ -30,10 +30,6 @@ En la sección “Ubuntu 22.04.1 LTS” seleccionar la opción “[Download](htt
 
 Se habrá descargado la imagen ISO de Ubuntu 22.04.1 LTS.
 
-# Evidencias
-
-![https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(4).png?raw=true](https://github.com/RaulToribio/02-Descargar-Ubuntu/blob/main/Im%C3%A1genes/Descargar%20Ubuntu%20(4).png?raw=true)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
