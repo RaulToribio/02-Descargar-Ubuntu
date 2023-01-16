@@ -1,8 +1,8 @@
+# 02-Descargar-Ubuntu
+
 # Introducción
 
-Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye principalmente software libre y de código abierto.
-
-[Wikipedia (2023)](https://es.wikipedia.org/wiki/Ubuntu)
+Ubuntu es un sistema operativo de código abierto basado en Linux. Fue lanzado por primera vez en 2004 y se caracteriza por su facilidad de uso, su enfoque en la accesibilidad y su amplia compatibilidad con una variedad de dispositivos y hardware. Ubuntu se utiliza comúnmente como sistema operativo en computadoras de escritorio y servidores, y también está disponible en versiones para teléfonos móviles y tabletas.
 
 # Material Necesario
 
